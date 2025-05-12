@@ -3,7 +3,7 @@
 Welcome to a beginner-friendly guide to Object-Oriented Programming (OOP) in Python!
 Understand OOP with real-world examples like phones, cars, and more.
 
-Made with ❤️ by Mohsin Raza
+Made with ❤️ by Suleman Sehar
 
 📘 What is OOP?
 OOP (Object-Oriented Programming) is a way to structure code using classes and objects, just like real-world entities.
