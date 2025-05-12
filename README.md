@@ -107,11 +107,11 @@ Python 3.x
 Code Editor (VS Code / PyCharm)
 
 👨‍💻 Author
-Name: Mohsin Raza
+Name: Suleman Sehar
 
-GitHub: mohsinraza23
+GitHub: Suleman-Sehar
 
-Email: mohsinraza23@gmail.com
+Email: solemanseher@gmail.com
 
 ⭐ Support
 If you found this helpful, feel free to star 🌟 the repo and share it!
